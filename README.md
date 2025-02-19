@@ -2,9 +2,7 @@
 
  <div>
    <a href="https://github.com/CamisaoLucas">
-    
-      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CamisaoLucas&show_icons=true&theme=tokyonight)
-   
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CamisaoLucas&show_icons=true&theme=tokyonight)
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamisaoLucas&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
